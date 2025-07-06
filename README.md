@@ -1,8 +1,8 @@
-# 📈 Hurst Exponent Trading Strategy Implementation
+#  Hurst Exponent Trading Strategy Implementation
 
 A comprehensive implementation of the Cornell Data Science paper: **"Optimizing Returns Using the Hurst Exponent and Q-Learning on Momentum and Mean Reversion Strategies"** by Chang, Lizardi, and Shah.
 
-## 🎯 Project Overview
+##  Project Overview
 
 This project demonstrates how to use the **Hurst exponent** to intelligently switch between momentum and mean reversion trading strategies. The key insight: different strategies work better under different market conditions, and the Hurst exponent can help identify which strategy to use when.
 
@@ -176,7 +176,7 @@ Based on the Cornell paper methodology, you should see:
 - Each data download cell (3, 4, 5) takes several minutes
 - **Do not interrupt** - let cells complete fully
 
-## 🎓 Educational Value
+##  Educational Value
 
 This notebook teaches:
 - **Quantitative finance concepts** (Hurst exponent, Sharpe ratio, trading strategies)
@@ -185,7 +185,7 @@ This notebook teaches:
 - **Risk management principles** (portfolio optimization, statistical analysis)
 - **Interactive visualization** (widgets, dynamic charts)
 
-## 📚 Academic Foundation
+##  Academic Foundation
 
 This implementation is based on:
 - **Cornell Data Science Research Paper** (2022)
