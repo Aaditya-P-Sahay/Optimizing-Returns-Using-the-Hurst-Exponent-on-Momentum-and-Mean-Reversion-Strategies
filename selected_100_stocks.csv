@@ -1,0 +1,101 @@
+Symbol,Company_Name,Sector,Expected_Hurst_Behavior,Market_Cap_Billion
+AAPL,Apple Inc.,Technology,Trending,3000
+MSFT,Microsoft Corporation,Technology,Trending,2800
+GOOGL,Alphabet Inc.,Technology,Trending,1800
+AMZN,Amazon.com Inc.,Technology,Trending,1600
+META,Meta Platforms Inc.,Technology,Mean Reverting,800
+TSLA,Tesla Inc.,Technology,Trending,800
+NVDA,NVIDIA Corporation,Technology,Trending,1200
+NFLX,Netflix Inc.,Technology,Mean Reverting,200
+ADBE,Adobe Inc.,Technology,Mean Reverting,250
+CRM,Salesforce Inc.,Technology,Mean Reverting,250
+INTC,Intel Corporation,Technology,Mean Reverting,200
+CSCO,Cisco Systems Inc.,Technology,Mean Reverting,200
+ORCL,Oracle Corporation,Technology,Mean Reverting,300
+AVGO,Broadcom Inc.,Technology,Trending,600
+QCOM,Qualcomm Inc.,Technology,Trending,150
+TXN,Texas Instruments Inc.,Technology,Mean Reverting,150
+AMAT,Applied Materials Inc.,Technology,Trending,120
+LRCX,Lam Research Corporation,Technology,Trending,80
+KLAC,KLA Corporation,Technology,Trending,70
+MRVL,Marvell Technology Inc.,Technology,Mean Reverting,60
+SNPS,Synopsys Inc.,Technology,Mean Reverting,50
+CDNS,Cadence Design Systems Inc.,Technology,Mean Reverting,40
+FTNT,Fortinet Inc.,Technology,Mean Reverting,30
+JNJ,Johnson & Johnson,Healthcare,Mean Reverting,400
+PFE,Pfizer Inc.,Healthcare,Mean Reverting,250
+UNH,UnitedHealth Group Inc.,Healthcare,Mean Reverting,500
+ABBV,AbbVie Inc.,Healthcare,Mean Reverting,250
+TMO,Thermo Fisher Scientific Inc.,Healthcare,Mean Reverting,200
+ABT,Abbott Laboratories,Healthcare,Mean Reverting,180
+MRK,Merck & Co. Inc.,Healthcare,Mean Reverting,300
+CVS,CVS Health Corporation,Healthcare,Mean Reverting,100
+DHR,Danaher Corporation,Healthcare,Mean Reverting,200
+BMY,Bristol Myers Squibb Co.,Healthcare,Mean Reverting,60
+AMGN,Amgen Inc.,Healthcare,Mean Reverting,150
+GILD,Gilead Sciences Inc.,Healthcare,Mean Reverting,80
+ISRG,Intuitive Surgical Inc.,Healthcare,Trending,100
+VRTX,Vertex Pharmaceuticals Inc.,Healthcare,Trending,50
+REGN,Regeneron Pharmaceuticals Inc.,Healthcare,Mean Reverting,60
+JPM,JPMorgan Chase & Co.,Financial Services,Mean Reverting,450
+BAC,Bank of America Corp.,Financial Services,Mean Reverting,300
+WFC,Wells Fargo & Company,Financial Services,Mean Reverting,200
+GS,Goldman Sachs Group Inc.,Financial Services,Trending,120
+MS,Morgan Stanley,Financial Services,Trending,150
+C,Citigroup Inc.,Financial Services,Mean Reverting,100
+AXP,American Express Company,Financial Services,Mean Reverting,150
+BLK,BlackRock Inc.,Financial Services,Trending,100
+SCHW,Charles Schwab Corporation,Financial Services,Mean Reverting,80
+CB,Chubb Limited,Financial Services,Mean Reverting,80
+PGR,Progressive Corporation,Financial Services,Mean Reverting,50
+AON,Aon plc,Financial Services,Mean Reverting,80
+MMC,Marsh & McLennan Companies Inc.,Financial Services,Mean Reverting,60
+TFC,Truist Financial Corporation,Financial Services,Mean Reverting,40
+PG,Procter & Gamble Company,Consumer Goods,Mean Reverting,350
+KO,Coca-Cola Company,Consumer Goods,Mean Reverting,250
+PEP,PepsiCo Inc.,Consumer Goods,Mean Reverting,200
+WMT,Walmart Inc.,Consumer Goods,Mean Reverting,400
+HD,Home Depot Inc.,Consumer Goods,Mean Reverting,350
+MCD,McDonald's Corporation,Consumer Goods,Mean Reverting,200
+NKE,Nike Inc.,Consumer Goods,Mean Reverting,150
+SBUX,Starbucks Corporation,Consumer Goods,Mean Reverting,100
+TGT,Target Corporation,Consumer Goods,Mean Reverting,80
+COST,Costco Wholesale Corporation,Consumer Goods,Mean Reverting,200
+XOM,Exxon Mobil Corporation,Energy,Mean Reverting,450
+CVX,Chevron Corporation,Energy,Mean Reverting,350
+COP,ConocoPhillips,Energy,Trending,100
+SLB,Schlumberger Limited,Energy,Mean Reverting,50
+EOG,EOG Resources Inc.,Energy,Trending,70
+KMI,Kinder Morgan Inc.,Energy,Mean Reverting,20
+OXY,Occidental Petroleum Corporation,Energy,Trending,50
+VLO,Valero Energy Corporation,Energy,Mean Reverting,30
+BA,Boeing Company,Industrial,Mean Reverting,150
+CAT,Caterpillar Inc.,Industrial,Mean Reverting,100
+HON,Honeywell International Inc.,Industrial,Mean Reverting,150
+UPS,United Parcel Service Inc.,Industrial,Mean Reverting,120
+LMT,Lockheed Martin Corporation,Industrial,Mean Reverting,100
+GE,General Electric Company,Industrial,Mean Reverting,100
+MMM,3M Company,Industrial,Mean Reverting,80
+DE,Deere & Company,Industrial,Mean Reverting,100
+NEE,NextEra Energy Inc.,Utilities,Mean Reverting,150
+DUK,Duke Energy Corporation,Utilities,Mean Reverting,80
+SO,Southern Company,Utilities,Mean Reverting,70
+AEP,American Electric Power Company Inc.,Utilities,Mean Reverting,60
+EXC,Exelon Corporation,Utilities,Mean Reverting,40
+XEL,Xcel Energy Inc.,Utilities,Mean Reverting,30
+AMT,American Tower Corporation,Real Estate,Mean Reverting,100
+PLD,Prologis Inc.,Real Estate,Mean Reverting,80
+CCI,Crown Castle International Corp.,Real Estate,Mean Reverting,50
+EQIX,Equinix Inc.,Real Estate,Mean Reverting,60
+SPG,Simon Property Group Inc.,Real Estate,Mean Reverting,50
+LIN,Linde plc,Materials,Mean Reverting,150
+APD,Air Products and Chemicals Inc.,Materials,Mean Reverting,120
+SHW,Sherwin-Williams Company,Materials,Mean Reverting,80
+ECL,Ecolab Inc.,Materials,Mean Reverting,60
+FCX,Freeport-McMoRan Inc.,Materials,Mean Reverting,30
+VZ,Verizon Communications Inc.,Communication,Mean Reverting,150
+T,AT&T Inc.,Communication,Mean Reverting,120
+TMUS,T-Mobile US Inc.,Communication,Trending,200
+CHTR,Charter Communications Inc.,Communication,Mean Reverting,80
+DIS,Walt Disney Company,Consumer Discretionary,Mean Reverting,200
+BKNG,Booking Holdings Inc.,Consumer Discretionary,Mean Reverting,100
