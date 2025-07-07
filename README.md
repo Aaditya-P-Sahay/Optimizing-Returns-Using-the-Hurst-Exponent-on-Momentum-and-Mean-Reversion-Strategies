@@ -19,7 +19,7 @@ This project demonstrates how to use the **Hurst exponent** to intelligently swi
 ##  Quick Start Options
 
 ### Option 1: Download and run on Google Colab (Recommended)
-1. **Download** the `AADITYA_Qfin_paper_implementation_CLEAN.ipynb` file from this repository
+1. **Download** the `AADITYA_hurstExponent_implementation.ipynb` file from this repository
 2. **Upload** to [Google Colab](https://colab.research.google.com)
 3. **Follow** the step-by-step instructions below
 
