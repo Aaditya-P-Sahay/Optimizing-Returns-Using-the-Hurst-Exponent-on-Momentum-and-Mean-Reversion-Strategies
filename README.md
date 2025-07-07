@@ -24,7 +24,7 @@ This project demonstrates how to use the **Hurst exponent** to intelligently swi
 3. **Follow** the step-by-step instructions below
 
 ### Option 2: Download and Run Locally
-1. **Download** the `Hurst_Exponent_Trading_Strategy.ipynb` file from this repository
+1. **Download** the `AADITYA_hurstExponent_implementation.ipynb` file from this repository
 2. Run locally in preferred environment.
 
 ### Option 3: Direct Google Colab Access (find link below)
